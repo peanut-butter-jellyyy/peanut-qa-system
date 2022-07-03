@@ -35,3 +35,6 @@ más complejos y cercanos a los humanos, que sean capaces de entender mejor lo q
 pregunta y que a su vez puedan analizar mejor los datos y que retornen resultados de mayor
 calibre.
 
+## Update
+
+Para la documentación completa del proyecto dirigirse a la carpeta doc.
